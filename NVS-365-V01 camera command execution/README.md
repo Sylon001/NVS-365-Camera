@@ -1,8 +1,9 @@
 # NVS365网络视频服务器后台任意命令执行漏洞(CVE-2022-47071)
 
-# 
+# [CVSS:9.8分:点击跳转](https://nvd.nist.gov/vuln/detail/CVE-2022-47071 )
 
-# 该漏洞关联上一份漏洞 《NVS365网络视频服务器密码信息未授权访问漏洞》
+
+# [该漏洞关联上一份漏洞 《NVS365网络视频服务器密码信息未授权访问漏洞》](https://github.com/Sylon001/NVS-365-Camera/tree/master/NVS365%20Network%20Video%20Server%20Password%20Information%20Unauthorized%20Access%20Vulnerability)
 
 其实也不用关联
 后面发现不需要登陆也可以触发命令执行漏洞，只需要请求url和提交data就行
