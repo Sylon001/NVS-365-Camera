@@ -13,6 +13,6 @@ https://nvd.nist.gov/vuln/detail/CVE-2022-47071
 
 
 ## security researcher
-name1:   hefei    
+name:   Sylon  
 
-Please contact email: Hefei.coffee@aliyun.com 
+Please contact emai: peisylon@foxmail.com
